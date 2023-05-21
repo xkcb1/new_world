@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "matoth",
+        "description": "",
+        "icon": {
+            "item": "minecraft:dragon_head"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
